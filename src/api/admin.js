@@ -1,4 +1,4 @@
-const BASE_URL = 'https://park-net-api.onrender.com/'
+const BASE_URL = 'https://park-net-backend.onrender.com/'
 import { useAuthStore } from '@/store/authStore'
 
 import { toast } from 'vue3-toastify'
